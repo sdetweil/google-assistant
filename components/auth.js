@@ -2,7 +2,6 @@
 
 const EventEmitter = require('events');
 const util = require('util');
-const grpc = require('grpc');
 const open = require('open');
 const readline = require('readline');
 const fs = require('fs');
